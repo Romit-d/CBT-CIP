@@ -21,7 +21,7 @@ Here's the concise description for the README file:
 Description:
 -> This project is a Student Data Management System implemented in C++. It provides functionalities to manage student records, including loading existing data, adding new records, displaying data, saving data to a file, and deleting the file.
 
-Status
+Status:
 -> The project is complete and includes basic functionalities for managing student data.
 
 Details :
