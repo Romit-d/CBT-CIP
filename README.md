@@ -30,6 +30,6 @@ Features:
   - Display all stored student data
   - Save updated data to a file
   - Delete the student data file
-Technologies Used:
+-> Technologies Used:
   - C++ for programming
   - File handling for reading from and writing to files
